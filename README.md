@@ -15,12 +15,12 @@ Então:
 
   - [x] Curso : Contextualização do Cenário na Área de Banco de Dados
   - [x] Curso : Explorando a Abordagem de SGBDs
-  - [ ] Curso : Overview sobre Modelagem de Dados
-  - [ ] Curso : Arquitetura de Bando de Dados
-  - [ ] Curso : Fundamentos de Modelagem e Projeto de Banco de Dados
-  - [ ] Curso : Explorando o Modelo ER - Entidade Relacionamento
-  - [ ] Curso : Modelagem de Dados com EER - Enhanced Entity Relationship
-  - [ ] Curso : Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE
+  - [x] Curso : Overview sobre Modelagem de Dados
+  - [x] Curso : Arquitetura de Bando de Dados
+  - [x] Curso : Fundamentos de Modelagem e Projeto de Banco de Dados
+  - [x] Curso : Explorando o Modelo ER - Entidade Relacionamento
+  - [x] Curso : Modelagem de Dados com EER - Enhanced Entity Relationship
+  - [x] Curso : Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE
   - [ ] Curso : Construindo um Esquena Conceitual do Zero
   - [ ] Curso : Modelo Relacional e Mapeamento ER/Relacional
   - [ ] Curso : Primeiros Passos com SQL

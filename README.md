@@ -21,8 +21,8 @@ Então:
   - [x] Curso : Explorando o Modelo ER - Entidade Relacionamento
   - [x] Curso : Modelagem de Dados com EER - Enhanced Entity Relationship
   - [x] Curso : Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE
-  - [ ] Curso : Construindo um Esquena Conceitual do Zero
-  - [ ] Curso : Modelo Relacional e Mapeamento ER/Relacional
+  - [x] Curso : Construindo um Esquena Conceitual do Zero
+  - [x] Curso : Modelo Relacional e Mapeamento ER/Relacional
   - [ ] Curso : Primeiros Passos com SQL
   - [ ] Curso : Explorando Queries com SQL
   - [ ] Curso : Criando Queries com Funções e Cláusulas de Agrupamentos

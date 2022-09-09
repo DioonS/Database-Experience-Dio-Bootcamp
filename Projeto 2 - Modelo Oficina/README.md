@@ -1,21 +1,13 @@
-# **Descrição do Desafio**
+### Oficina - Narrativa
 
-Para este cenário você irá utilizar seu esquema conceitual, criado no desafio do módulo de modelagem de BD com modelo ER, para criar o esquema lógico para o contexto de uma oficina. Neste desafio, você definirá todas as etapas. Desde o esquema até a implementação do banco de dados. Sendo assim, neste projeto você será o protagonista. Tenha os mesmos cuidados, apontados no desafio anterior, ao modelar o esquema utilizando o modelo relacional.
-
-Após a criação do esquema lógico, realize a criação do Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Especifique ainda queries mais complexas do que apresentadas durante a explicação do desafio. Sendo assim, crie queries SQL com as cláusulas abaixo:
-
-- Recuperações simples com SELECT Statement;
-- Filtros com WHERE Statement;
-- Crie expressões para gerar atributos derivados;
-- Defina ordenações dos dados com ORDER BY;
-- Condições de filtros aos grupos – HAVING Statement;
-- Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
-
-## **Diretrizes**
-
-- Não há um mínimo de queries a serem realizadas;
-- Os tópicos supracitados devem estar presentes nas queries;
-- Elabore perguntas que podem ser respondidas pelas consultas
-- As cláusulas podem estar presentes em mais de uma query
-
-O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
+- [x]  Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica;
+- [x]  Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões periódicas;
+- [x]  Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega;
+- [x]  A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referencia de mão de obra;
+- [x]  O valor de cada peça também irá compor a OS;
+- [x]  O cliente autoriza a execução da OS;
+- [x]  A mesma equipe avalia e executa os serviços
+- [x]  Os mecanicos possuem código, nome, endereço e especialidade
+- [x]  Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos
+- [x]  Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS;
+- [x]  Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS

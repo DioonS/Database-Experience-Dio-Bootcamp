@@ -23,10 +23,10 @@ Então:
   - [x] Curso : Refinando um Projeto Conceitual de Banco de Dados - E-COMMERCE
   - [x] Curso : Construindo um Esquena Conceitual do Zero
   - [x] Curso : Modelo Relacional e Mapeamento ER/Relacional
-  - [ ] Curso : Primeiros Passos com SQL
-  - [ ] Curso : Explorando Queries com SQL
-  - [ ] Curso : Criando Queries com Funções e Cláusulas de Agrupamentos
-  - [ ] Curso : Agrupando Registros e Tabelas com Join Statement
+  - [x] Curso : Primeiros Passos com SQL
+  - [x] Curso : Explorando Queries com SQL
+  - [x] Curso : Criando Queries com Funções e Cláusulas de Agrupamentos
+  - [x] Curso : Agrupando Registros e Tabelas com Join Statement
   - [ ] Curso : Construindo seu Primeiro Projeto Lógico de Banco de Dados
   - [ ] Curso : Construa um Projeto Lógico de Banco de Dados do Zero
   

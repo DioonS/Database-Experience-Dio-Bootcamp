@@ -30,9 +30,9 @@ Então:
   - [x] Curso : Construindo seu Primeiro Projeto Lógico de Banco de Dados
   - [x] Curso : Construa um Projeto Lógico de Banco de Dados do Zero
   
-- [ ] Tópico - Bancos de Dados NoSQL
+- [x] Tópico - Bancos de Dados NoSQL
 
-  - [ ] Curso : Introdução ao MongoDB e Bancos de Dados NoSQL
-  - [ ] Curso : O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
+  - [x] Curso : Introdução ao MongoDB e Bancos de Dados NoSQL
+  - [x] Curso : O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
   
 

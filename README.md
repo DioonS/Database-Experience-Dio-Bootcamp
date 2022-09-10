@@ -27,8 +27,8 @@ Então:
   - [x] Curso : Explorando Queries com SQL
   - [x] Curso : Criando Queries com Funções e Cláusulas de Agrupamentos
   - [x] Curso : Agrupando Registros e Tabelas com Join Statement
-  - [ ] Curso : Construindo seu Primeiro Projeto Lógico de Banco de Dados
-  - [ ] Curso : Construa um Projeto Lógico de Banco de Dados do Zero
+  - [x] Curso : Construindo seu Primeiro Projeto Lógico de Banco de Dados
+  - [x] Curso : Construa um Projeto Lógico de Banco de Dados do Zero
   
 - [ ] Tópico - Bancos de Dados NoSQL
 
